@@ -183,7 +183,8 @@ Users can filter the dashboard using:
 
 # 📷 Dashboard Preview
 
-> **Insert your dashboard screenshot here**
+<img width="1041" height="807" alt="image" src="https://github.com/user-attachments/assets/eb0c6a0f-3896-488d-8e09-74e727d32000" />
+
 
 Example:
 
