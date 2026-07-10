@@ -194,7 +194,7 @@ images/dashboard.png
 or
 
 ```markdown
-![Dashboard](images/dashboard.png)
+![Car Sales Dashboard](Images/dashboard.png)
 ```
 
 ---
