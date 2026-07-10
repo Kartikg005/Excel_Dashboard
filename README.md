@@ -207,10 +207,7 @@ Users can filter the dashboard using:
 ## 📁 Project Structure
 
 ```
-Car-Sales-Dashboard/
-│
-├── Dataset/
-│   └── cars_dataset.xlsx
+Excel_Dashboard/
 │
 ├── Dashboard/
 │   └── Car Sales Dashboard.xlsx
@@ -218,9 +215,7 @@ Car-Sales-Dashboard/
 ├── Images/
 │   └── dashboard.png
 │
-├── README.md
-│
-└── LICENSE
+└── README.md
 ```
 
 ---
