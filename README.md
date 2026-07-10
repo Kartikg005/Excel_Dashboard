@@ -209,15 +209,15 @@ Users can filter the dashboard using:
 ```
 Excel_Dashboard/
 │
-├── README.md
+├──Case_Study/
+|   └── Car_Sales_Dashboard_Case_Study.pdf
 ├── Dashboard/
 │   └── Car_Sales_Dashboard.xlsx
 ├── Dataset/
 │   └── cars_dataset.csv
 ├── Images/
 │   └── dashboard.png
-└── Case_Study/
-    └── Car_Sales_Dashboard_Case_Study.pdf
+└── README.md
 ```
 
 ---
