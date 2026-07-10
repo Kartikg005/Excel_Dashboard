@@ -1,4 +1,3 @@
-# Excel_Dashboard
 # 🚗 Car Sales Analysis Dashboard
 
 An interactive **Microsoft Excel Dashboard** built using the **Cars Dataset from Kaggle**. This project demonstrates data cleaning, data analysis, and dashboard design using Pivot Tables, Pivot Charts, KPI Cards, and Slicers.
